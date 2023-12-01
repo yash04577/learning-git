@@ -1,5 +1,5 @@
 this text file is create in fruits branch.
-created in master branch
+created in fruits branch
 apple
 banana
 mango
