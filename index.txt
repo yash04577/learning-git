@@ -1,4 +1,4 @@
-this text file is create in master branch.
+this text file is create in fruits branch.
 apple
 banana
 mango
